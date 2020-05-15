@@ -1,6 +1,6 @@
 ---
 title: Plotting functions
-tags: tikz
+tags: tikz basic
 ---
 
 Remember to include necessary libraries.

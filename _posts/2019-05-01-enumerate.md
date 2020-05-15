@@ -1,6 +1,6 @@
 ---
 title: Enumerate
-tags: general
+tags: basic
 ---
 
 Using `\usepackage{enumitem}` will allow you to customize the enumerate environment label.
